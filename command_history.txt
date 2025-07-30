@@ -1,0 +1,10 @@
+   21  whatis cat > cate.txt
+   22  whereis gcc > gccsearch.txt
+   23  info cat > informa.txt
+   24  sudo apt install gcc > installing.txt
+   25  sudo apt install build-essential
+   26  date "+%A %B %d %Y %T" > formatted_date.txt
+   27  seq 1 10 > sequence.txt
+   28  clear
+   29  history
+   30  history 10 > command_history.txt
